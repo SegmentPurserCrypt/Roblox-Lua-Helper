@@ -55,5 +55,5 @@ Modern Frameless UI: Single-file Python/pywebview architecture featuring hardwar
 `roblox`,  `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `lua`, `object-detection` , `game-scripts` , `murder-mystery` , `mm2` , `blade-ball` , `blox-fruits-game` , `adopt-me-script-lua` , `steal-a-brainrot-hack`
 
 
-<!-- update: A -->
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+<!-- update: B -->
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
