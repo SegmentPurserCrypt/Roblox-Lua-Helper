@@ -55,5 +55,5 @@ Modern Frameless UI: Single-file Python/pywebview architecture featuring hardwar
 `roblox`,  `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `lua`, `object-detection` , `game-scripts` , `murder-mystery` , `mm2` , `blade-ball` , `blox-fruits-game` , `adopt-me-script-lua` , `steal-a-brainrot-hack`
 
 
-<!-- update: B -->
-> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"
+<!-- update: A -->
+> 💡 *IT Quote:* "_Programs must be written for people to read, and only incidentally for machines to execute. – Abelson & Sussman_"
