@@ -55,5 +55,5 @@ Modern Frameless UI: Single-file Python/pywebview architecture featuring hardwar
 `roblox`,  `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `lua`, `object-detection` , `game-scripts` , `murder-mystery` , `mm2` , `blade-ball` , `blox-fruits-game` , `adopt-me-script-lua` , `steal-a-brainrot-hack`
 
 
-<!-- update: A -->
-> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
+<!-- update: B -->
+> 💡 *IT Quote:* "_First, solve the problem. Then, write the code. – John Johnson_"
